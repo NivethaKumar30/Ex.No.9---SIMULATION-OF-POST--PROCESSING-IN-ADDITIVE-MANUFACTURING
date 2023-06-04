@@ -57,16 +57,26 @@ UV Curing of 3D printed part
 
 Part before UV Curing :
 
+![Uploading image.png…]()
+
+
 Explanation : Depending on the desired final appearance and quality, additional surface finishing steps may be performed. This can involve techniques such as sanding, filing, or polishing the surface to remove any visible layer lines or imperfections, resulting in a smoother and more refined surface finish.
 
 UV Curing Machine :
 
+![Uploading image.png…]()
+
 Explanation : UV curing can be done using a dedicated UV curing chamber or a UV light source. UV curing chambers are designed to evenly expose the printed object to UV light from all sides, ensuring consistent curing. UV light sources can range from handheld UV lamps to specialized UV curing boxes or cabinets. The choice of apparatus will depend on the size of the printed object and the specific UV curing requirements.
 
 Part in UV Curing Machine :
+
+![Uploading image.png…]()
+
 Explanation : Place the printed object in the UV curing apparatus, ensuring it is properly positioned for uniform exposure to UV light. The curing time will depend on the resin manufacturer's guidelines and the intensity of the UV light source. Typically, exposure times can range from a few minutes to several hours. Refer to the resin manufacturer's instructions for the recommended curing duration. During the UV curing process, monitor the printed object periodically.
 
 Final Part :
+
+![Uploading image.png…]()
 
 Explanation : After the UV curing process is complete, some resins may require a post-curing rinse in a solvent such as isopropyl alcohol (IPA). This rinse helps to remove any uncured resin residue on the object's surface, enhancing its final appearance and reducing stickiness. After UV curing and any required rinsing, allow the printed object to air dry completely. The object is now considered cured and ready for further post-processing or use. It is advisable to store the cured object in a clean and dry environment to prevent any degradation over time.
 
@@ -74,17 +84,25 @@ Explanation : After the UV curing process is complete, some resins may require a
 
 Before Heat Treatment 
 
+![image](https://github.com/NivethaKumar30/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119559844/18716b02-3b64-4aae-b3e5-8676a477c5e0)
+
 Explanation : Before heat treatment, the material or component is selected based on desired properties. It undergoes forming (casting, forging, etc.) and machining processes to shape it. Cleaning removes impurities, and optional annealing relieves stresses. Inspection checks for defects. Then, the material is ready for heat treatment to modify its mechanical properties.
 
 Heat Treatment Oven :
+
+![image](https://github.com/NivethaKumar30/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119559844/fcf79209-7073-4826-a369-9f2c98dfbd42)
 
 Explanation : A heat treatment oven is a specialized piece of equipment used to heat materials or components to specific temperatures and maintain those temperatures for a desired period of time. It provides a controlled environment for heat treatment processes such as annealing, tempering, quenching, or hardening. The oven typically has heating elements, temperature controls, insulation, and may include features like airflow or gas circulation for uniform heating.
 
 Part in Oven :
 
+![image](https://github.com/NivethaKumar30/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119559844/be0984ee-85cd-439c-ae1f-eeefe770a21d)
+
 Explanation : When a part is placed in an oven for heat treatment, it undergoes controlled heating and cooling to modify its properties. The part's placement ensures uniform treatment, achieving desired changes in mechanical properties. After the treatment cycle, the part is cooled according to requirements.
 
 Final Part :
+
+![image](https://github.com/NivethaKumar30/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119559844/c0796928-f625-444c-857b-0fc0752a1f68)
 
 Explanation : The final part refers to the component or material after undergoing heat treatment, which modifies its properties. It exhibits improved mechanical properties, dimensional stability, surface characteristics, and material integrity. It is inspected to ensure it meets specifications and is suitable for its intended application.
 ## Output:
